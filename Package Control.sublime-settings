@@ -14,6 +14,7 @@
 		"BracketHighlighter",
 		"Color Highlight",
 		"Emmet",
+		"Emoji",
 		"ERB Snippets",
 		"Git",
 		"Latest Migration",
@@ -23,6 +24,7 @@
 		"SublimeLinter",
 		"SublimeLinter-flake8",
 		"SublimeLinter-rubocop",
-		"Terminus"
-	]
+		"Terminus",
+		"View In Browser",
+	],
 }
