@@ -66,4 +66,8 @@ export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+<<<<<<< HEAD
 export PATH="$HOME/.rbenv/bin:$PATH"
+=======
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+>>>>>>> acb6e50913320fcc7846231558ca7bc991a602c1
