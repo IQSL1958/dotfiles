@@ -73,3 +73,4 @@ export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 >>>>>>> acb6e50913320fcc7846231558ca7bc991a602c1
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
